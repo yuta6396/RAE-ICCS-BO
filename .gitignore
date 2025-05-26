@@ -3,3 +3,6 @@
 *.nc
 /run/plt
 /run/result_noControl
+**/out*
+**/*.gif
+**/*Zone.Identifier
